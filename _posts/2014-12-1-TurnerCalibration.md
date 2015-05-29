@@ -1,11 +1,9 @@
 ---
 layout: post
-title: How to calibrate a Turner Fluorometer
+title: How to calibrate a Turner Fluorometer for phytoplankton Chlorophyll a
 ---
 
-# How to calibrate a Turner Fluorometer for phytoplankton Chlorophyll a
-
-Chlorophyll a (chl) measurements are a useful estimate of algal biomass and have been used extensively for decades. Turner designs (http://www.turnerdesigns.com/) fluorometers are used extensively to quantify chl as they are fast, reliable, and relatively cheap. Nevertheless, errors can be introduced if the fluorometer isn't calibrated with a commercially available chlorophyll a standard (e.g. [crystallised Chlorophyll a from Anacystis nidulans algae from Sigma Chemical Company](http://www.sigmaaldrich.com/catalog/product/sigma/c6144?lang=en&region=AU)) regularly. The procedure described here is appropriate for algal chl in the marine environment. Scientists who employ this or other methods to measure pigments should make themselves aware of the issues that surround fluorescence based techniques and make appropriate decisions about the use of this technology for their application based on the scientific requirements and constraints of their individual programs.
+Chlorophyll a (chl) measurements are a useful estimate of algal biomass and have been used extensively for decades. Turner designs ([http://www.turnerdesigns.com/](http://www.turnerdesigns.com/) fluorometers are used extensively to quantify chl as they are fast, reliable, and relatively cheap. Nevertheless, errors can be introduced if the fluorometer isn't calibrated with a commercially available chlorophyll a standard (e.g. [crystallised Chlorophyll a from Anacystis nidulans algae from Sigma Chemical Company](http://www.sigmaaldrich.com/catalog/product/sigma/c6144?lang=en&region=AU)) regularly. The procedure described here is appropriate for algal chl in the marine environment. Scientists who employ this or other methods to measure pigments should make themselves aware of the issues that surround fluorescence based techniques and make appropriate decisions about the use of this technology for their application based on the scientific requirements and constraints of their individual programs.
 
 #### How often?
 If used in the laboratory your fluorometer should be calibrated every 6 months. If the fluorometer is to be taken into the field then it should be calibrated before and after each voyage/expedition.

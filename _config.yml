@@ -18,14 +18,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: robtheoceanographer@gmail.com
   facebook:
   flickr:
   github: RobTheOceanographer/
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: .# just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: JohnsonRob
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Papers
-permalink: /papers
+permalink: /papers/
 ---
 This is where all my papers will be listed.

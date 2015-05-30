@@ -2,9 +2,9 @@
 layout: post
 title: Art meets Science
 ---
-Two years in the making and the *ex Oceano* symphony is out!
-
 <iframe src="https://player.vimeo.com/video/80873449" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/80873449">ex Oceano - we are from the ocean - the ocean sustains us</a> from <a href="https://vimeo.com/nickroden">Nick Roden</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Two years in the making and the *ex Oceano* symphony is out!
 
 *ex Oceano* is a creative venture in sound – a collaborative expression between disciplines and understandings.
 

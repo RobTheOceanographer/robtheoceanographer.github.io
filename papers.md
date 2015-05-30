@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 Here is a list of my scientific publications for you to enjoy:
 
-- *Johnson Robert*, P.G Strutton, S.W Wright, A McMinn, and K Meiners., (2013), “Three Improved Satellite Chlorophyll Algorithms for the Southern Ocean”, Journal of Geophysical Research – Oceans, DOI 10.1002/jgrc.20270 [PDF](./docs/Johnson_et_al_2013.pdf)
+- *Johnson Robert*, P.G Strutton, S.W Wright, A McMinn, and K Meiners., (2013), “Three Improved Satellite Chlorophyll Algorithms for the Southern Ocean”, Journal of Geophysical Research – Oceans, DOI 10.1002/jgrc.20270 [PDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/Johnson_et_al_2013.pdf)
 
 - Petrou Katherina, R Hill, M.A Doblin, A McMinn, *R Johnson*, S.W Wright, and P.J Ralph., “Photoprotection of sea-ice microalgal communities from the east Antarctic”, Journal of Phycology, DOI: 10.1111/j.1529-8817.2010.00944.x [PDF](./docs/Petrou_et_al_2011.pdf)
 

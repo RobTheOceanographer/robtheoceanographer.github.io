@@ -2,9 +2,9 @@
 layout: post
 title: eReefs Satellite Data Workshop - Townsville
 ---
-![Townsville Reef HQ]({{ site.baseurl }}/images/reefHQ.JPG)
-
 Today I'm teaching at the first [Bureau of Meteorology eReefs](www.bom.gov.au/marinewaterquality) satellite data training workshop in [Townsville QLD](http://en.wikipedia.org/wiki/Townsville). I've spent the last week or so preparing and putting togther a sensible (*hopefully*) series of short lessons.
+
+![Townsville Reef HQ]({{ site.baseurl }}/images/reefHQ.JPG)
 
 During my prep I borrowed heavily from the style of the [Software-Carpentry](http://software-carpentry.org/) training material and I even set up a [workshop webpage](https://ereefs.github.io/) by bastardising a [blog template](http://www.robtheoceanographer.com/MyFirstPost/) and hosted it on [GitHub](https://pages.github.com/).
 

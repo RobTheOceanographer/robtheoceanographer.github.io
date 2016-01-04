@@ -7,23 +7,28 @@ I've been asked a few times recently about how to LaTeX so I thought I'd put a f
 ![CTAN LION]({{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif)
 
 ## What is it?
+
 There's no need to re-invent the wheel here so the best thing is to read the, actually pretty good, Wikipedia pages on [Tex](https://en.Wikipedia.org/wiki/TeX) and [LaTeX](https://en.Wikipedia.org/wiki/LaTeX).
 
 Having said that I will highlight the purpose of LaTeX (TeX) for those of you, like me, who are too lazy to bother reading those pages - The original TeX was designed with two main goals in mind: to allow anybody to produce high-quality books using a reasonably minimal amount of effort, and to provide a system that would give exactly the same results on all computers, at any point in time. For me, LaTeX is all about the second of those two points - easy reproducibility.
 
 ## How to install LaTeX?
+
 First of all, there are lots of different types of LaTeX distributions. To simplify your search here are a couple of simple suggests:
 
 There are two parts to a LaTeX installation: a LaTeX distribution (the compiler) and an editor to write the document in (a text editor of your choice):
 
 ### Editors
+
 You can use any text editor you like but there are a couple that were designed for LaTeX and have built in LaTeX typesetting functionality that is really useful - if you're just starting out I suggest: [TeXShop](uoregon.edu/~koch/texshop/) on a Mac and [TeXworks](https://www.tug.org/texworks/) or [Texmaker](http://www.xm1math.net/texmaker/) or [TeXStudio](http://texstudio.sourceforge.net/) on Linux, and [MiKTeX](http://miktex.org/) or [Texmaker](http://www.xm1math.net/texmaker/) on Windows.
 
 ### LaTeX
- - Linux users: You may already have LaTeX installed on your system. Type `which latex` at a command prompt to find out - if you have it, it will respond with /usr/bin/latex or something like that. If you don't you'll need to install it. Using Fedora run the following as a superuser:
+
+- Linux users: You may already have LaTeX installed on your system. Type `which latex` at a command prompt to find out - if you have it, it will respond with /usr/bin/latex or something like that. If you don't you'll need to install it. Using Fedora run the following as a superuser:
 ```bash
 yum install texlive
 ```
+
 If you are using another Linux distribution, you can download LaTeX and install it using your package manager (e.g. `apt-get install texlive` etc). I'm no linux guru and I was able to install it on my Linux machine without screwing too much up.
 
 - Mac users: You can install everything you'll need from the MacTeX web page [http://www.tug.org/mactex/](http://www.tug.org/mactex/). MacTeX should take care of all of your latex compatibility stuff and should be pretty straight forward.
@@ -64,6 +69,7 @@ yum install texlive-multirow
 If you can't find what you're looking for in your package manager you can search on the [Com­pre­hen­sive TeX Archive Net­work (CTAN)](https://www.ctan.org/) website. CTAN is the central place for all LaTeX packages and it currently abut 4952 packages, most of which are free. [https://www.ctan.org/](https://www.ctan.org/)
 
 ### How to [CTAN](https://www.ctan.org/)
+
 If you download a package from CTAN you will need to build the `.sty` file, put it into a dir that LaTeX can see and then tell LaTeX about it. Below is a rough guide to do this:
 
 - search for missing packages here: [https://www.ctan.org/search/](https://www.ctan.org/search/)
@@ -76,4 +82,5 @@ If you download a package from CTAN you will need to build the `.sty` file, put 
 
 
 ## Examples and Inspiration
+
 If you need inspiration check out this [stackexchange](http://stackexchange.com) thread of beautifully typeset documents created in TeX/LaTeX: [http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)

@@ -3,6 +3,7 @@ layout: post
 title: How to LaTeX - An Absolute Beginners Guide.
 ---
 I've been asked a few times recently about how to LaTeX so I thought I'd put a few notes up for everyone to refer back to later.
+
 ![CTAN LION]({{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif)
 
 So, first thing's first: What is it and how do I install it...

@@ -3,7 +3,7 @@ layout: post
 title: How to LaTeX - An Absolute Beginners Guide
 excerpt:
          <p>I've been asked a few times recently about how to LaTeX so I thought I'd put a few notes up for everyone to refer back to later.</p>
-         <img src="{{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif" alt="CTAN Lion" style="width:304px;height:228px;">
+         <img src="https://raw.githubusercontent.com/RobTheOceanographer/robtheoceanographer.github.io/master/images/CTAN_lion_drawing_by_Duane_Bibby.gif" alt="CTAN Lion" style="width:304px;height:228px;">
 ---
 
 ## What is it?

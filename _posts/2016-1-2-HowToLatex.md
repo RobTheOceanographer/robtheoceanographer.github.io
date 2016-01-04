@@ -4,8 +4,6 @@ title: How to LaTeX - An Absolute Beginners Guide
 ---
 I've been asked a few times recently about how to LaTeX so I thought I'd put a few notes up for everyone to refer back to later.
 
-![CTAN LION]({{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif)
-
 ## What is it?
 
 There's no need to re-invent the wheel here so the best thing is to read the, actually pretty good, Wikipedia pages on [Tex](https://en.Wikipedia.org/wiki/TeX) and [LaTeX](https://en.Wikipedia.org/wiki/LaTeX).

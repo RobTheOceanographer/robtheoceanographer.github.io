@@ -2,7 +2,7 @@
 layout: post
 title: eReefs Satellite Data Workshop - Townsville
 excerpt:
-         <p>Today I'm teaching at the first [Bureau of Meteorology eReefs](http://www.bom.gov.au/marinewaterquality/) satellite data training workshop in [Townsville QLD](http://en.wikipedia.org/wiki/Townsville). I've spent the last week or so preparing and putting together a sensible (*hopefully*) series of short lessons.</p>
+         <p>Today I'm teaching at the first Bureau of Meteorology eReefs satellite data training workshop in Townsville, QLD. I've spent the last week or so preparing and putting together a sensible series of short lessons and I thought i'd share some of my thoughts on the prep.</p>
          <img src="https://raw.githubusercontent.com/RobTheOceanographer/robtheoceanographer.github.io/master/images/reefHQ.JPG" alt="Townsville Reef HQ">
 ---
 Today I'm teaching at the first [Bureau of Meteorology eReefs](http://www.bom.gov.au/marinewaterquality/) satellite data training workshop in [Townsville QLD](http://en.wikipedia.org/wiki/Townsville). I've spent the last week or so preparing and putting together a sensible (*hopefully*) series of short lessons.

@@ -5,22 +5,23 @@ title: How to LaTeX - An Absolute Beginners Guide.
 I've been asked a few times recently about how to LaTeX so I thought I'd put a few notes up for everyone to refer back to later.
 ![CTAN LION]({{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif)
 
-So, first thing's first: What is it and how do I install LaTeX!!!
+So, first thing's first: What is it and how do I install it...
 
-### What is it?
+
+## What is it?
 There's no need to re-invent the wheel here so the best thing is to read the, actually pretty good, Wikipedia pages on [Tex](https://en.Wikipedia.org/wiki/TeX) and [LaTeX](https://en.Wikipedia.org/wiki/LaTeX).
 
 Having said that I will highlight the purpose of LaTeX (TeX) for those of you, like me, who are too lazy to bother reading those pages - The original TeX was designed with two main goals in mind: to allow anybody to produce high-quality books using a reasonably minimal amount of effort, and to provide a system that would give exactly the same results on all computers, at any point in time. For me, LaTeX is all about the second of those two points - easy reproducibility.
 
-### How to install LaTeX?
+## How to install LaTeX?
 First of all, there are lots of different types of LaTeX distributions. To simplify your search here are a couple of simple suggests:
 
 There are two parts to a LaTeX installation: a LaTeX distribution (the compiler) and an editor to write the document in (a text editor of your choice):
 
-#### Editors
+### Editors
 You can use any text editor you like but there are a couple that were designed for LaTeX and have built in LaTeX typesetting functionality that is really useful - if you're just starting out I suggest: [TeXShop](uoregon.edu/~koch/texshop/) on a Mac and [TeXworks](https://www.tug.org/texworks/) or [Texmaker](http://www.xm1math.net/texmaker/) or [TeXStudio](http://texstudio.sourceforge.net/) on Linux, and [MiKTeX](http://miktex.org/) or [Texmaker](http://www.xm1math.net/texmaker/) on Windows.
 
-#### LaTeX
+### LaTeX
  - Linux users: You may already have LaTeX installed on your system. Type `which latex` at a command prompt to find out - if you have it, it will respond with /usr/bin/latex or something like that. If you don't you'll need to install it. Using Fedora run the following as a superuser:
 ```bash
 yum install texlive
@@ -31,7 +32,7 @@ If you are using another Linux distribution, you can download LaTeX and install 
 
 - Windows users: You can install MiKTeX [http://miktex.org/](http://miktex.org/), which is the latex distribution built for Windows. Some helpful notes are found here: [http://www.howtotex.com/howto/installing-latex-on-windows/](http://www.howtotex.com/howto/installing-latex-on-windows/).  It should take care of all of your LaTeX compatibility stuff and should be pretty straight forward  - your milage may vary, especially with the new Windows OS.
 
-### The absolute basics
+## The absolute basics
 
 How to create a document with “hello world” as the content:
 

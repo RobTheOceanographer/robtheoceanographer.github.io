@@ -6,7 +6,7 @@ I've been asked a few times recently about how to LaTeX so I thought I'd put a f
 
 ![CTAN LION]({{ site.baseurl }}/images/CTAN_lion_drawing_by_Duane_Bibby.gif)
 
-So, first thing's first: What is it and how do I install it...
+So, first thing's first: What is it and how do I install it.
 
 
 ## What is it?

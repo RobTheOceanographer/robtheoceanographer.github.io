@@ -16,19 +16,19 @@ For years it has bugged me that using the tilde symbol in latex is a real pain, 
 
 Below is a line of code you can add to the preamble of any document and it will define a command that will place a sensibly sized and positioned tilde where you want it.  (I have quite figured out where I can put it so it always works and doesn’t get overwritten by new packages).  Why this isn’t the default (or close to the default), I don’t know, but here it is.
 
-```\newcommand{\goodtilde}{{\raise0.17ex\hbox{$\scriptstyle\sim$}}}  %create a command that uses a decent ~ (tilde) in-text.```
+```
+
+\newcommand{\goodtilde}{{\raise0.17ex\hbox{$\scriptstyle\sim$}}}  %create a command that uses a decent ~ (tilde) in-text.
+
+```
 
 It is used like this throughout the latex of the document:
 
-```
+```There are \goodtilde50 excellent reasons why this should be the default symbol in latex.```
 
-There are \goodtilde50 excellent reasons why this should be the default symbol in latex.
-
-```
 OR
-```
-This is the way to put a \goodtilde symbol in your text.
-```
+
+```This is the way to put a \goodtilde symbol in your text.```
 
 
 THE END.

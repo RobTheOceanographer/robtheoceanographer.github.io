@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 Here is a list of my scientific publications for you to enjoy:
 
-- Pope Allen, P. Wagner, *__R. Johnson__*, J.D. Shutler, J. Baeseman, and L. Newman, "Community review of Southern Ocean satellite data needs", Antarctic Science, 2016, DOI: 10.1017/S0954102016000390. [GetThePDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/Davidson_et_al_2016.pdf)
+- Pope Allen, P. Wagner, *__R. Johnson__*, J.D. Shutler, J. Baeseman, and L. Newman, "Community review of Southern Ocean satellite data needs", Antarctic Science, 2016, DOI: 10.1017/S0954102016000390. [GetThePDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/pope_etal_2016.pdf)
 
 - Davidson Andrew, J. McKinlay, K. Westwood, P.G. Thomson, R. van den Enden, M. de Salas, *__R. Johnson__*, K. Berry, B. Tilbrook., “Enhanced CO2 concentrations change the structure and function of Antarctic marine microbial communities” Marine Ecology Progress Series, 2016. DOI: 10.3354/meps11742 [GetThePDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/Davidson_et_al_2016.pdf)
 

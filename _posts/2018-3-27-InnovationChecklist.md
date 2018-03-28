@@ -7,7 +7,7 @@ excerpt:
 
 Lately I've been thinking about how one decides to adopt new technology or change the way one works. There's a lot of push for Data Scientists to keep up with the latest and greatest innovation in IT or analysis (e.g. change to `git` rather than staying with `svn`) but there's rarely any objective analysis or thought put into whether or not a Data Scientist *should* invest the time and energy in doing this. Therefore I decided to put together a list of principles that I hold and use a a yard stick when presented with such situations. These are presented below.
 
-### 1 – The new tool of method should be cheaper than the one it replaces.
+### 1 – The new tool or method should be cheaper than the one it replaces.
 
 ### 2 - It should be at least as fast as the tool or method it replaces.
 

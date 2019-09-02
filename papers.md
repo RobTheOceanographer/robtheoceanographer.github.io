@@ -5,6 +5,10 @@ permalink: /papers/
 ---
 Here is a list of my scientific publications for you to enjoy:
 
+- Nicholas Pittman, P.G. Strutton, *__R. Johnson__*, R.J. Matear, "An assessment and improvement of satellite ocean color algorithms for the tropical Pacific Ocean" Journal of Geophysical Research: Oceans, 2019, (Accepted – Minor Revisions)
+
+- Nicole Hellessey, *__R. Johnson__*, J.A. Ericson, P.D. Nichols, S. Kawaguchi , S. Nicol, N. Hoem, and P. Virtue, "Antarctic Krill Lipid and Fatty acid Content Variability is associated to Satellite Derived Chlorophyll a and Sea Surface Temperatures", 2019, Nature: Scientific Reports, (Accepted – Minor Revisions)
+
 - David Antoine, T. Schroeder, M. Slivkoff, W. Klonowski, M. Doblin, J. Lovell, D. Boadle, B. Baker, E. Botha, C. Robinson, E. King, P. Fearns, N. Hardman-Mountford, *__R. Johnson__*, N. Cherukuru, A. Dekker, T. Malthus, R. Mitchell, P. Thompson, P. Van Ruth, "FINAL REPORT: The IMOS “Radiometry Task Team”", Integrated Marine Observing System, 2018. [GetThePDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/IMOS-RTT-final-report-submission-30June2017.pdf)
 
 - Allen Pope, P. Wagner, *__R. Johnson__*, J.D. Shutler, J. Baeseman, and L. Newman, "Community review of Southern Ocean satellite data needs", Antarctic Science, 2016, DOI: 10.1017/S0954102016000390. [GetThePDF](https://github.com/RobTheOceanographer/robtheoceanographer.github.io/raw/master/docs/pope_etal_2016.pdf)

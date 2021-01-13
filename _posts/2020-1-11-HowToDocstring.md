@@ -29,7 +29,7 @@ def add_binary(a, b):
     '''
     Returns the sum of two decimal numbers in binary digits.
 
-            Parameters:
+            Args:
                     a (int): A decimal integer
                     b (int): Another decimal integer
 
@@ -48,7 +48,7 @@ output:
 ```
 Returns the sum of two decimal numbers in binary digits.
 
-    Parameters:
+    Args:
         a (int): A decimal integer
         b (int): Another decimal integer
 
@@ -72,33 +72,23 @@ class Person:
 
     some blah about why/what it does.
 
-    Attributes
-    ----------
-    name : str
-        first name of the person
-    surname : str
-        family name of the person
-    age : int
-        age of the person
+    Args:
+      name (str): The first name of the person
+      surname (str): The family name of the person
+      age (int): The age of the person
 
-    Methods
-    -------
-    info(additional=""):
-        Prints the person's name and age.
+    Methods:
+      info(additional=""): Prints the person's name and age.
     """
 
     def __init__(self, name, surname, age):
         """
         Constructs all the necessary attributes for the person object.
 
-        Parameters
-        ----------
-            name : str
-                first name of the person
-            surname : str
-                family name of the person
-            age : int
-                age of the person
+        Args:
+            name (str): The first name of the person
+            surname (str): The family name of the person
+            age (int): The age of the person
         """
 
         self.name = name
@@ -108,7 +98,7 @@ class Person:
     ...
 ```
 
-As per the function dcostring this text is also assigned to the `__docstring__` attribute for the class.
+As per the function docstring this text is also assigned to the `__docstring__` attribute for the class.
 we can see that by:
 
 ```
@@ -116,23 +106,18 @@ print(Person.__doc__)
 ```
 Output
 ```
-    A class to represent a person.
+A class to represent a person.
 
-    some blah about why/what it does.
+some blah about why/what it does.
 
-    Attributes
-    ----------
-    name : str
-        first name of the person
-    surname : str
-        family name of the person
-    age : int
-        age of the person
+Args:
+  name (str): The first name of the person
+  surname (str): The family name of the person
+  age (int): The age of the person
 
-    Methods
-    -------
-    info(additional=""):
-        Prints the person's name and age.
+Methods:
+  info(additional=""): Prints the person's name and age.
+
 ```
 
 
@@ -183,4 +168,4 @@ I won't paste the output here as it's too long... go run it yourself and see wha
 
 ## More Info
 
-If you need inspiration check out [pep 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) or go hunting around in your favorite python module.
+If you need inspiration check out [pep 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) or go hunting around in your favourite python module.

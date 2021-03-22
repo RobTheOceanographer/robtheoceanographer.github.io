@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collaborative Coding with git & GitLab
+title: Collaborative Coding with Git & GitLab
 excerpt:
-<p>I've been asked by more than one person how to use git and merge requests for collaborative coding. Here are my notes for me to refer back to later and to point people to when i teach them how to do this.</p>
-<img src="https://raw.githubusercontent.com/RobTheOceanographer/robtheoceanographer.github.io/master/images/branching.png" alt="branching_schematic" style="width:640px;height:290px;">
+         <p>I've been asked by more than one person how to use git and merge requests for collaborative coding. Here are my notes for me to refer back to later and to point people to when i teach them how to do this.</p>
+         <img src="https://raw.githubusercontent.com/RobTheOceanographer/robtheoceanographer.github.io/master/images/branching.png" alt="branching_cartoon">
 ---
 I've been asked by more than one person about how to use git and merge requests for collaborative scientific coding. Here are my notes for me to refer back to later and for me to point people to when I spend time teaching them how to do this.
 

@@ -8,9 +8,6 @@ excerpt:
 I've been asked by more than one person about how to use git and merge requests for collaborative scientific coding. Here are my notes for me to refer back to later and for me to point people to when I spend time teaching them how to do this.
 
 
-_N.B._ I still need to add some screenshots form gitlab so that this is a more complete example...
-
-
 ## What and Why?
 Version control is the *lab notebook* of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate. Every large software development project relies on version control, and most scientists and engineers use it for their work as well. But, it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in some sort of version control system.
 
@@ -217,9 +214,13 @@ Version control really comes into its own when we begin to collaborate with othe
 
 The beauty of git is that it allow us to easily move work between any number of repositories in any location. In practice, though, it is much saner/easier to use one copy as a "central hub", and to keep it on the web rather than on someone's private machine/laptop. Most people use online hosting services like GitHub, Bitbucket, or GitLab, to hold those central or master copies of the repo.
 
-Let’s start by setting up a GitLab repo for sharing the changes we’ve made to our current project with the rest of the team. Log in to GitLab, then click on the "New Project" icon in the top right corner then create a blank project called `the_next_spaceX`.
+Let’s start by setting up a GitLab repo for sharing the changes we’ve made to our current project with the rest of the team. Log in to GitLab.com, then click on the "New Project" icon in the top right corner then create a blank project called `the_next_spaceX`.
+
+![New Project Button](../images/new_project_button.png)
 
 As soon as the repository is created GitLab displays a page with a URL and some information on how to configure your local repository.
+
+
 
 What you have effectively done is the following on GitLab’s servers:
 ```

@@ -11,7 +11,7 @@ This is a bare-bones build - *you should be doing more than this* - for example 
 
 The basic structure of a python package is quite straight forward:
 
-```
+```python
 basemypackage  --> Base
 └── mypackage   --> Actual Module
     ├── extras
@@ -30,7 +30,7 @@ The `__init__.py` file contains two important things:
 - the names of all the methods in all the Python files that are in this immediate directory.
 
 A typical `__init__.py` looks like this:
-```
+```python
 """
 some helpful info of what each method is/does...
 """
@@ -42,7 +42,7 @@ from file import method  # 'method' is a function found in the python file calle
 You will need to put a `__init__.py` in each sub dir of your package and so each sub-dir will become sub-modules of your main package.
 
 here is the specific `__init__.py` for our dummy example:
-```
+```python
 """
 Provides
 1. ability to add two numbers
@@ -57,7 +57,7 @@ from subtract import subtract
 
 as we have an `extras` sub dir we need one in there too:
 
-```
+```python
 """
 Provides
 1. ability to add multiply numbers
@@ -76,7 +76,7 @@ Another attribute of a python package is the `setup.py` which is a python file t
 
 Within the `basemypackage` dir (and in the same directory as our module `mypackage` ) we will now add a `setup.py` file:
 
-```
+```python
 from setuptools import setup, find_packages
 
 VERSION = '0.0.1' 
@@ -117,7 +117,7 @@ You can now build and install your package locally using the dir you have just s
 It’s common to locally install your project in “editable” or “developer” mode while you’re still developing/working on it. This allows your project to be both installed and editable so that updates are available when they get made.
 
 Within the `basemypackage` dir run:
-```
+```bash
 python -m pip install -e .
 ```
 Although somewhat cryptic, -e is short for --editable, and . refers to the current working directory, so it should install the current directory in editable mode. This will also install any dependencies declared in the `setup.py`.
@@ -131,15 +131,15 @@ This is my preferred method of working and allows you to control who installs yo
 If you don’t already have one, create a new gitlab project and clone it to your local machine. Put all of the code that you want to include in your package including all the stuff shown above into this folder.
 
 `pip` can talk git directly so it's quite easy to build our python package from gitlab. Here is an example:
-```
+```bash
 python3 -m pip install -e git+ssh://git@gitlab.com/mygroup/gorgeous/basemypackage.git
 ```
 Or if you want to specify a non default branch:
-```
+```bash
 python3 -m pip install git+ssh://git@gitlab.com/mygroup/gorgeous/basemypackage.git@dev
 ```
 Or if you want to fetch a particular tag:
-```
+```bash
 python3 -m pip install git+ssh://git@gitlab.com/mygroup/gorgeous/basemypackage.git@v0.01
 ```
 *.N.B.* The `:` at the end of gitlab.com must be changed to a `/` and you must have an ssh key registered with gitlab.com for the machine you're working on.
